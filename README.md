@@ -28,6 +28,6 @@ STEPS:
  * call this method also from Main using Product class object p
  *
  * Observations:
- * This class contains 3 classes with same name, but it complie & run successfully
+ * This class contains 3 Methods with same name, but it compiles & run successfully
  *
  */
